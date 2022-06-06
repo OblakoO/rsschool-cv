@@ -1,1 +1,1 @@
-https://oblakoo.github.io/rsschool-cv/cv
+https://oblakoo.github.io/rsschool-cv/
